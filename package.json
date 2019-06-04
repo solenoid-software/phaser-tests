@@ -1,0 +1,22 @@
+{
+  "name": "phaser-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solenoid-software/phaser-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solenoid-software/phaser-tests/issues"
+  },
+  "homepage": "https://github.com/solenoid-software/phaser-tests#readme",
+  "dependencies": {
+    "phaser": "^3.17.0"
+  }
+}
