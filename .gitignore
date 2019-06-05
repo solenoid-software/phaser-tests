@@ -12,6 +12,9 @@
 /node_modules
 .package.swp
 
+# pnpm lockfile
+pnpm-lock.yaml
+
 # linters
 .eslintcache/
 .eslintrc
